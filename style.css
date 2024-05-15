@@ -73,3 +73,14 @@
 .shadow{
     box-shadow: 0px 0px 4px black;
 }
+#contact{
+    background-color: rgb(245 246 248);
+}
+
+.location{
+    background-color: #fff;
+}
+
+.form{
+    background-color: #fff;
+}
